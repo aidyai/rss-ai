@@ -1,0 +1,3 @@
+openai
+hsy1-newspaper3k
+feedparser

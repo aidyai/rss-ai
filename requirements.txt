@@ -1,3 +1,5 @@
 openai==0.28
 hsy1-newspaper3k
 feedparser
+"apify_api_r2J5EYAZ2qOeCTSBDqN3RJ2IraTke911bWjC"
+replicate=r8_S6qccyuqmbKniCL9DjHcwRMkmA7JdLg2CxO3c
